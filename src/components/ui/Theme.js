@@ -6,7 +6,7 @@ const prodOrange = '#FFBA60';
 export default createMuiTheme({
   palette: {
     common: {
-      green: `${prodBlue}`,
+      blue: `${prodBlue}`,
       orange: `${prodOrange}`,
     },
     primary: {
